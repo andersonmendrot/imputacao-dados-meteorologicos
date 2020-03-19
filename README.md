@@ -1,6 +1,6 @@
 # Análise Comparativa de Técnicas de Aprendizado para Imputação de Dados Faltantes em Séries Temporais de Dados Meteorológicos
 
-Repositório com algoritmos e artigo desenvolvidos no trabalho final da disciplina de Inteligência Artificial no ICT/Unifesp na Unifesp no segundo semestre de 2019.
+Repositório com algoritmos e artigo desenvolvidos no trabalho final da disciplina de Inteligência Artificial no ICT/Unifesp na Unifesp no primeiro semestre de 2019.
 
 Anderson Silvério Mendrot Filho, Mateus Alves de Oliveira
 
